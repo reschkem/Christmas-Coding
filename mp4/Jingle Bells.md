@@ -1,0 +1,1 @@
+The song "Jingle Bells" is in the public domain. It was composed by James Lord Pierpont in 1857 under the original title "One Horse Open Sleigh." Since the song was created in the United States long before the expiration of copyright terms there, it is no longer under copyright protection.
