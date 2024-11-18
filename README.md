@@ -1,2 +1,1 @@
-# Christmas-Coding
-Weihnachtliches Programmieren 🎄 
+# Christmas-Coding 🎄 (Weihnachtliches Programmieren 🎄)
