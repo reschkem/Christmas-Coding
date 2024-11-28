@@ -10,7 +10,7 @@ This project is ideal for introducing (very young) students to programming in a 
 - Open the Scratch project file by uploading the .sb3 file or use the direct link: Project Link.
 - Click the green flag to start the project.
 
-## Ressources/Acknowledgments
+## Ressources/Acknowledgments/Licences
 
 For this project, I used the following files. You can use the links (last checked in November 2024) to find other similar ressources.
 
