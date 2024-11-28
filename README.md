@@ -7,7 +7,7 @@ This project is ideal for introducing (very young) students to programming in a 
 ## How to Run
 
 - Go to the [Scratch website](https://scratch.mit.edu).
-- Open the Scratch project file by uploading the .sb3 file or use the direct link: Project Link.
+- Open the Scratch project file by uploading the .sb3 file.
 - Click the green flag to start the project.
 
 ## Ressources/Acknowledgments/Licences
